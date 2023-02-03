@@ -10,7 +10,10 @@ public class GitTest {
         System.out.printf( "hello git3!");
         System.out.printf( "hello git4!");
         System.out.printf( "hot-fix text!");
-        System.out.printf( "push text!");
+         System.out.printf( "push text!");
+         System.out.printf( "pull text!");
+       
+        
 
 
 
